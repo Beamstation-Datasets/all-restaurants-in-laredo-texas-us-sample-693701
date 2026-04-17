@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Complete dataset of all active restaurant listings in Laredo, Texas with a population of over 255k. Filtered by the Restaurants category group, this city-level export covers verified business profiles including ratings, reviews, contact details, and competitive metrics for the local dining market. Refreshed weekly.",
   "config_name": "All Restaurants in Laredo, Texas, US",
-  "export_job_id": "ab1cbea9-5b3a-4515-9614-8214e31e366d",
+  "export_job_id": "bd15a818-2c4b-4486-8c14-695f68c77d75",
   "github_org": "Beamstation-Datasets",
   "id_short": 693701,
   "location_name": "Laredo",
   "location_type": "city",
   "repo_name": "all-restaurants-in-laredo-texas-us-sample-693701",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/693701/beamstation_693701_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_pct": 10.85,
+  "sample_pct": 9.96,
   "sample_records": 74,
   "sample_sha256": "fbec87dec61146a3b8c0bf928f9c64d830d252f1007cd213f4c3b9465b38e2cc",
   "sample_size_bytes": 276256,
-  "total_records": 682,
-  "updated_at": "2026-03-31T16:12:08.161015+00:00"
+  "total_records": 743,
+  "updated_at": "2026-04-14T16:59:10.366874+00:00"
 }
