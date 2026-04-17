@@ -9,9 +9,9 @@
 | Dataset ID | `693701` |
 | Location | Laredo |
 | Category | Restaurants |
-| Full dataset size | 682 records |
-| Free sample size | 74 records (10.85%) |
-| Last export | 2026-03-31T16:12:08.161015+00:00 |
+| Full dataset size | 743 records |
+| Free sample size | 74 records (9.96%) |
+| Last export | 2026-04-14T16:59:10.366874+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-laredo-texas-us-sample-693701/releases/download/sample-latest/beamstation_693701_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
